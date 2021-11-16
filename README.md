@@ -10,7 +10,7 @@
 
 🛫 Também sou mecânico de aeronaves!
 
-:books: Atualmente aprendendo de tudo!
+:books: Lendo: Introduction to machine learning with Python!
 
 :rocket: Objetivos para 2022: Me aprofundar em ciência de dados auxiliado por Python, conseguir mais experiência nessa área e aumentar meu network de profissionais em Data Science!
 
