@@ -4,13 +4,13 @@
 
 ## Olá, sou o Ítalo!
 
-:cloud_with_lightning: Estudante de Engenharia de Energia!
+:cloud_with_lightning: Estudante de Engenharia de Energia - UFSC!
 
-:computer: Estudante de Ciência de Dados!
+:computer: Estudante de Ciência de Dados - Autodidata!
 
-🛫 Também sou mecânico de aeronaves!
+🛫 Também sou mecânico de aeronaves - EEAR/SP!
 
-:books: Lendo: Introduction to machine learning with Python!
+:books: Estou lendo:
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/51NVb0XP2-L._SY344_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/41nRJEUxePS._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200">
 
