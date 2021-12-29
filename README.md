@@ -20,7 +20,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/italo-silva-519a4a28/)
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_LINKEDIN)](https://www.instagram.com/_.lta_/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521990833676&text=Hello!)](https://api.whatsapp.com/send?phone=Eng.+Energia+e+Cientista+de+Dados+Ítalo&text=Olá,+fico+feliz+com+seu+contato!&text=Deixe+sua+mensagem+que+logo+retornarei!&text=Hello,+I'm+glad+you+contact+me!&text=Submit+your+issue,+I'll+feedback+ASAP!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521990833676&text=Hello!)](https://api.whatsapp.com/send?phone=Eng.+Energia+e+Cientista+de+Dados+Ítalo&text=Olá,+fico+feliz+com+seu+contato!+&text=Deixe+sua+mensagem+que+logo+retornarei!+&text=Hello,+I'm+glad+you+contact+me!+&text=Submit+your+issue,+I'll+feedback+ASAP!)
 
 ## Minhas Contribuições
 <div align="center"
