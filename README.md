@@ -8,7 +8,7 @@
 
 :computer: Estudante de Ciência de Dados - Autodidata!
 
-🛫 Também sou Mecânico de Aeronaves - EEAR/SP!
+🛫 Mecânico de Aeronaves - EEAR/SP!
 
 :books: Estou lendo:
 
