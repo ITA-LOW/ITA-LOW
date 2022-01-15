@@ -27,3 +27,5 @@
 
 [![ITA-LOW GitHub stats](https://github-readme-stats.vercel.app/api?username=ITA-LOW)](https://github.com/ITA-LOW/github-readme-stats)
 </div>
+
+**Esta é uma página para treinamento**
