@@ -16,6 +16,10 @@
 
 :rocket: Objetivos para 2022: Me aprofundar em ciência de dados auxiliado por Python, conseguir mais experiência nessa área e aumentar meu network de profissionais em Data Science!
 
+## Linguagens
+
+<img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt=" " width="50" height="55"> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt=" " width="90" height="55">
+
 ## Redes Sociais
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/italo-silva-519a4a28/)
