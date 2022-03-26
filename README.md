@@ -18,7 +18,7 @@
 
 ## Linguagens
 
-<img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt=" " width="50" height="55"> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt=" " width="90" height="55">
+<img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt="python" width="50" height="55"> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt="javascript" width="95" height="55"> <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" alt="html5" width="45" height="53">
 
 ## Redes Sociais
 
