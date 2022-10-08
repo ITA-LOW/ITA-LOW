@@ -6,7 +6,7 @@
 
 :cloud_with_lightning: Estudante de Engenharia de Energia - UFSC!
 
-:computer: Estudante de Ciência de Dados - Autodidata!
+:computer: Estudante de Ciência de Dados - UFSC!
 
 🛫 Mecânico de Aeronaves - EEAR/SP!
 
