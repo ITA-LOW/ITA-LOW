@@ -1,8 +1,6 @@
 # Bem Vindo!
 
- 
-
-## Olá, sou o Ítalo!
+## Quem sou eu
 
 :cloud_with_lightning: Estudante de Engenharia de Energia - UFSC!
 
