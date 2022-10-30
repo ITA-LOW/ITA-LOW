@@ -25,7 +25,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="60" height="70"/>
 
 ### Engenharia
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="60" height="70"/>
+ <img src="img/png-clipart-blue-logo-autodesk-revit-computer-icons-building-information-modeling-autocad-revit-logo-blue-angle-thumbnail-removebg-preview.png" alt="pandas" width="60" height="70"/>
 
 
 ## Redes Sociais
