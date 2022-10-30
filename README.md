@@ -23,8 +23,9 @@
 
 ## Habilidades
 ### Ciência de dados
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="60" height="70"/>
-
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="60" height="70"/> &emsp; <img src="https://numfocus.org/wp-content/uploads/2016/07/Matplotlib_Logo_191209.png" alt="pandas" width="70" height="70"/>
+ 
+ 
 ### Engenharia
  <img src="img/png-clipart-blue-logo-autodesk-revit-computer-icons-building-information-modeling-autocad-revit-logo-blue-angle-thumbnail-removebg-preview.png" alt="pandas" width="60" height="70"/>
 
