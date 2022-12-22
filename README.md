@@ -49,7 +49,6 @@
 
 <div align="center"
    
-   
-❗ Esta é uma página para treinamento ❗
+  
    
 </div>
