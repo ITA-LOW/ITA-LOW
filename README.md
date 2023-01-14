@@ -12,7 +12,8 @@
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/51j89lmxnpL._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/41R+fNX-akL._SX258_BO1,204,203,200_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/51gleGGYGGL.jpg" alt="statistical" width="150" height="200">
 
-:rocket: Objetivos para 2022: Me aprofundar em ciência de dados, conseguir mais experiência nessa área e aumentar meu network de profissionais em Data Science!
+:rocket: Objetivos para 2022: Me aprofundar em ciência de dados, conseguir mais experiência nessa área e aumentar meu network de profissionais em Data Science! ✔️
+:rocket: Objetivos para 2023: Aumentar minhas habilidades em estatística e conseguir o primeiro estágio na área!
 
 ## Linguagens de programação
 <img src="https://cdn.picpng.com/logo/language-logo-python-44976.png" alt="python" width="50" height="55"> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt="javascript" width="95" height="55">  
