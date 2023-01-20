@@ -2,7 +2,7 @@
 
 ## Quem sou eu
 
-:cloud_with_lightning: Estudante de Engenharia de Energia - UFSC!
+:cloud_with_lightning: Estudante de Engenharia de Computação - UFSC!
 
 :computer: Estudante de Ciência de Dados - UFSC!
 
