@@ -4,7 +4,7 @@
 
 :cloud_with_lightning: Estudante de Engenharia de Computação - UFSC!
 
-:computer: Estudante de Ciência de Dados - UFSC!
+:computer: Estudante de Ciência de Dados
 
 🛫 Mecânico de Aeronaves - EEAR/SP!
 
