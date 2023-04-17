@@ -8,9 +8,7 @@
 
 🛫 Mecânico de Aeronaves - EEAR/SP!
 
-:books: Estou lendo:
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/51j89lmxnpL._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/41R+fNX-akL._SX258_BO1,204,203,200_.jpg" alt="python" width="150" height="200"> <img src="https://images-na.ssl-images-amazon.com/images/I/51gleGGYGGL.jpg" alt="statistical" width="150" height="200">
 
 :rocket: Objetivos para 2022: Me aprofundar em ciência de dados, conseguir mais experiência nessa área e aumentar meu network de profissionais em Data Science! ✔️
 
